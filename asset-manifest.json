@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cdnreadmetest/static/css/main.769e5def.chunk.css",
-    "main.js": "/cdnreadmetest/static/js/main.d2804cca.chunk.js",
-    "main.js.map": "/cdnreadmetest/static/js/main.d2804cca.chunk.js.map",
+    "main.js": "/cdnreadmetest/static/js/main.2ef74a26.chunk.js",
+    "main.js.map": "/cdnreadmetest/static/js/main.2ef74a26.chunk.js.map",
     "runtime~main.js": "/cdnreadmetest/static/js/runtime~main.dd67b4ae.js",
     "runtime~main.js.map": "/cdnreadmetest/static/js/runtime~main.dd67b4ae.js.map",
     "static/js/2.896c6454.chunk.js": "/cdnreadmetest/static/js/2.896c6454.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.75d1d4c7.chunk.js": "/cdnreadmetest/static/js/3.75d1d4c7.chunk.js",
     "static/js/3.75d1d4c7.chunk.js.map": "/cdnreadmetest/static/js/3.75d1d4c7.chunk.js.map",
     "index.html": "/cdnreadmetest/index.html",
-    "precache-manifest.5125dfd07796f53714b31047a3875860.js": "/cdnreadmetest/precache-manifest.5125dfd07796f53714b31047a3875860.js",
+    "precache-manifest.211805f409edbc76d2761a5f8af51574.js": "/cdnreadmetest/precache-manifest.211805f409edbc76d2761a5f8af51574.js",
     "service-worker.js": "/cdnreadmetest/service-worker.js",
     "static/css/main.769e5def.chunk.css.map": "/cdnreadmetest/static/css/main.769e5def.chunk.css.map",
     "static/media/CDN-Logo.png": "/cdnreadmetest/static/media/CDN-Logo.b1aa3ca9.png",
