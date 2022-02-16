@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cdntest/static/css/main.769e5def.chunk.css",
-    "main.js": "/cdntest/static/js/main.d2804cca.chunk.js",
-    "main.js.map": "/cdntest/static/js/main.d2804cca.chunk.js.map",
-    "runtime~main.js": "/cdntest/static/js/runtime~main.efec61fb.js",
-    "runtime~main.js.map": "/cdntest/static/js/runtime~main.efec61fb.js.map",
-    "static/js/2.896c6454.chunk.js": "/cdntest/static/js/2.896c6454.chunk.js",
-    "static/js/2.896c6454.chunk.js.map": "/cdntest/static/js/2.896c6454.chunk.js.map",
-    "static/js/3.75d1d4c7.chunk.js": "/cdntest/static/js/3.75d1d4c7.chunk.js",
-    "static/js/3.75d1d4c7.chunk.js.map": "/cdntest/static/js/3.75d1d4c7.chunk.js.map",
-    "index.html": "/cdntest/index.html",
-    "precache-manifest.e2bd9e7ec79be92a87433524e7cb1a10.js": "/cdntest/precache-manifest.e2bd9e7ec79be92a87433524e7cb1a10.js",
-    "service-worker.js": "/cdntest/service-worker.js",
-    "static/css/main.769e5def.chunk.css.map": "/cdntest/static/css/main.769e5def.chunk.css.map",
-    "static/media/CDN-Logo.png": "/cdntest/static/media/CDN-Logo.b1aa3ca9.png",
-    "static/media/IMG_20220215_084111.jpg": "/cdntest/static/media/IMG_20220215_084111.605152f0.jpg",
-    "static/media/IMG_20220215_084139.jpg": "/cdntest/static/media/IMG_20220215_084139.59f69e03.jpg",
-    "static/media/hexagons-of-different-sizes-on-a-blue-background-vector.jpg": "/cdntest/static/media/hexagons-of-different-sizes-on-a-blue-background-vector.ebd31d4a.jpg"
+    "main.css": "/cdnreadmetest/static/css/main.769e5def.chunk.css",
+    "main.js": "/cdnreadmetest/static/js/main.d2804cca.chunk.js",
+    "main.js.map": "/cdnreadmetest/static/js/main.d2804cca.chunk.js.map",
+    "runtime~main.js": "/cdnreadmetest/static/js/runtime~main.dd67b4ae.js",
+    "runtime~main.js.map": "/cdnreadmetest/static/js/runtime~main.dd67b4ae.js.map",
+    "static/js/2.896c6454.chunk.js": "/cdnreadmetest/static/js/2.896c6454.chunk.js",
+    "static/js/2.896c6454.chunk.js.map": "/cdnreadmetest/static/js/2.896c6454.chunk.js.map",
+    "static/js/3.75d1d4c7.chunk.js": "/cdnreadmetest/static/js/3.75d1d4c7.chunk.js",
+    "static/js/3.75d1d4c7.chunk.js.map": "/cdnreadmetest/static/js/3.75d1d4c7.chunk.js.map",
+    "index.html": "/cdnreadmetest/index.html",
+    "precache-manifest.5125dfd07796f53714b31047a3875860.js": "/cdnreadmetest/precache-manifest.5125dfd07796f53714b31047a3875860.js",
+    "service-worker.js": "/cdnreadmetest/service-worker.js",
+    "static/css/main.769e5def.chunk.css.map": "/cdnreadmetest/static/css/main.769e5def.chunk.css.map",
+    "static/media/CDN-Logo.png": "/cdnreadmetest/static/media/CDN-Logo.b1aa3ca9.png",
+    "static/media/IMG_20220215_084111.jpg": "/cdnreadmetest/static/media/IMG_20220215_084111.605152f0.jpg",
+    "static/media/IMG_20220215_084139.jpg": "/cdnreadmetest/static/media/IMG_20220215_084139.59f69e03.jpg",
+    "static/media/hexagons-of-different-sizes-on-a-blue-background-vector.jpg": "/cdnreadmetest/static/media/hexagons-of-different-sizes-on-a-blue-background-vector.ebd31d4a.jpg"
   }
 }
